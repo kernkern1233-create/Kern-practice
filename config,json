@@ -1,0 +1,7 @@
+{
+  "db_type": "sqlite",
+  "sqlite_db_path": "logs.db",
+  "log_dir": "./logs",
+  "log_mask": "*.log",
+  "secret_key": "super-student-secret-key"
+}
